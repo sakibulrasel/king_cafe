@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1004997618939",
+    "project_id": "grocery-8fa43",
+    "storage_bucket": "grocery-8fa43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004997618939:android:8875b3e2e622924663545e",
+        "android_client_info": {
+          "package_name": "com.sadibul.king_cafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004997618939-cmhrg3cv70ot0hs0bjm4ffagq4779rrf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sadibul.king_cafe",
+            "certificate_hash": "e52b93eaaac4eb6f96a74b9645cde984da00f9b4"
+          }
+        },
+        {
+          "client_id": "1004997618939-kcaghtgnvu478dp63fmpq3u743mboa5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYZCWbo9F_eGCA1ymkhXQR9ZlV48edErU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004997618939-kcaghtgnvu478dp63fmpq3u743mboa5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
